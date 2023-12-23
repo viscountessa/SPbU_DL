@@ -20,7 +20,7 @@ Deep Learning course
 	г) Классификатор + все методы улучшения
 	
 Сделать выводы.
-
+Ссылка на выполненное задание: https://github.com/viscountessa/SPbU_DL/blob/hw1_intro_multimodal_classification/multimodal_classification%2Bpseudolabeling.ipynb
 
 Домашнее задание 2:
 	
